@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/nodejs-logging?activeTab=versions
 
+## [7.3.0](https://www.github.com/googleapis/nodejs-logging/compare/v7.2.3...v7.3.0) (2020-03-06)
+
+
+### Features
+
+* export protos in src/index.ts ([0dbbe35](https://www.github.com/googleapis/nodejs-logging/commit/0dbbe351f3143e8103929ac5862bd7c2c8ff6716))
+
 ### [7.2.3](https://www.github.com/googleapis/nodejs-logging/compare/v7.2.2...v7.2.3) (2020-02-26)
 
 
